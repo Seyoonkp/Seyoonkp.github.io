@@ -1,21 +1,19 @@
-/* General body styling */
+
 body {
-    font-family: 'Times New Roman', Times, serif; /* Example of a serif font */
-    background-color: #f4f4f4; /* Light grey background */
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: #f4f4f4; 
     margin: 20px;
     padding: 20px;
-    color: #333; /* Dark grey text */
+    color: #333; 
 }
 
-/* Header styles */
 header {
-    color: #0056b3; /* A shade of blue for header texts */
+    color: #0056b3; 
     margin-bottom: 20px;
 }
 
-/* Navigation styles */
 nav {
-    background-color: #e3e3e3; /* Slightly darker grey for the navigation background */
+    background-color: #e3e3e3; 
     padding: 10px;
     margin-bottom: 20px;
 }
@@ -32,11 +30,10 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #0056b3; /* Keeping the link color consistent with the header color */
+    color: #0056b3; 
     font-weight: bold;
 }
 
-/* Main content styles */
 main {
     font-size: 16px;
 }
@@ -54,32 +51,28 @@ h2 {
 }
 
 p, ul {
-    line-height: 1.6; /* Enhances readability */
+    line-height: 1.6; 
 }
 
-/* Image styling */
 img {
-    border-radius: 5px; /* Slightly rounded corners for all images */
+    border-radius: 5px; 
     margin-top: 10px;
 }
 
-/* Footer styles */
 footer {
     margin-top: 20px;
     font-size: 14px;
     text-align: center;
 }
 
-/* Custom styles for unique elements or classes */
 .unique-layout {
-    /* Example for a unique layout styling that can be applied to any section needing differentiation */
+   
     background-color: #fff;
     border: 1px solid #ddd;
     padding: 15px;
     margin-top: 20px;
 }
 
-/* Adjusting padding and margin for specific content */
 .content-padding {
     padding: 20px;
 }
